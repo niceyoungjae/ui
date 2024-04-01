@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="홈" android:icon="@drawable/home"/>
+    <item android:title="최근기록"  android:icon="@drawable/img" />
+    <item android:title="키패드" android:icon="@drawable/key" />
+    <item android:title="연락처" android:icon="@drawable/book"/>
+    <item android:title="더보기" android:icon="@drawable/set"/>
+</menu>
